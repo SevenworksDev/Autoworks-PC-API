@@ -6,4 +6,4 @@
       // GET API Start
       echo unlink('../user/'.$_GET['username'].'/index.html');
       echo rmdir('../user/'.$_GET['username']);
-?>
+?> 

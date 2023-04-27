@@ -6,4 +6,4 @@
       // GET API Start
       echo mkdir('../user/'.$_GET['username']);
       echo copy('../templates/'.$_GET['pc'].'.html', '../user/'.$_GET['username'].'/index.html');
-?>
+?> 

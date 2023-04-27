@@ -1,5 +1,3 @@
-<html>
-  <body>
     <h1>Forbidden!</h1>
     <hr>
     <h3>Methods</h3>
@@ -16,5 +14,3 @@
     <p>11 - Success</p>
     <p>-1 - Unauthorized</p>
     <p>No Status Code - Fatal Error</p>
-  </body>
-</html>
